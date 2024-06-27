@@ -14,7 +14,7 @@ const Index = () => {
         <CardContent className="space-y-4">
           <AspectRatio ratio={16 / 9}>
             <img
-              src="/images/boat.jpg"
+              src="/images/sailboat.jpg"
               alt="Boat"
               className="rounded-md object-cover"
             />
